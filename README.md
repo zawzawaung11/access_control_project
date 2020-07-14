@@ -9,7 +9,7 @@
 
 ## About User Control Access Management System
 
-<img src="https://tufaceous-shifts.000webhostapp.com/img/acll.png" />
+<img src="https://tufaceous-shifts.000webhostapp.com/img/acl1.png" />
 <br>
 <img src="https://tufaceous-shifts.000webhostapp.com/img/acl2.png" />
 
